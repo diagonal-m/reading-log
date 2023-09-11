@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/design.md",
+                "file": "programming/golang/golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/HeadFirstデザインパターン/1章 Strategyパターン.md",
+                "file": "design/HeadFirstデザインパターン/HeadFirstデザインパターン.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/HeadFirstデザインパターン/1章 Strategyパターン.md",
+                "file": "programming/golang/golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/HeadFirstデザインパターン/1章 Strategyパターン.md",
+                "file": "programming/golang/golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/HeadFirstデザインパターン/1章 Strategyパターン.md"
+                "file": "programming/golang/golang.md"
               }
             }
           }
@@ -159,17 +158,24 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "21f64f9f1d8a00e6",
+  "active": "4581dac1718db3e1",
   "lastOpenFiles": [
+    "programming/golang/Go言語100Tips/Go言語100Tips.md",
+    "programming/golang/golang.md",
+    "programming/programming.md",
     "design/design.md",
+    "design/HeadFirstデザインパターン/HeadFirstデザインパターン.md",
+    "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md",
+    "programming/golang/Go言語100Tips",
+    "programming/golang",
+    "README.md",
+    "design/HeadFirstデザインパターン/1章 Strategyパターン.md",
+    "programming",
     "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md",
     "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
     "PXL_20230911_061127454.jpg",
-    "design/HeadFirstデザインパターン/1章 Strategyパターン.md",
-    "design/HeadFirstデザインパターン/HeadFirstデザインパターン.md",
     "design/HeadFirstデザインパターン",
     "無題のフォルダ",
-    "README.md",
     "design",
     "無題のファイル.canvas",
     "2023-09-04.md",
