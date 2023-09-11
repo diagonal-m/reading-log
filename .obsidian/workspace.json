@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/golang/golang.md",
+                "file": "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/golang/golang.md",
+                "file": "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/golang/golang.md",
+                "file": "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/golang/golang.md"
+                "file": "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md"
               }
             }
           }
