@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md",
+                "file": "programming/golang/Go言語100Tips/第2章 コードとプロジェクト構成.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md",
+                "file": "programming/golang/Go言語100Tips/第2章 コードとプロジェクト構成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md",
+                "file": "programming/golang/Go言語100Tips/第2章 コードとプロジェクト構成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md"
+                "file": "programming/golang/Go言語100Tips/第2章 コードとプロジェクト構成.md"
               }
             }
           }
@@ -161,11 +161,12 @@
   "active": "4581dac1718db3e1",
   "lastOpenFiles": [
     "programming/golang/Go言語100Tips/Go言語100Tips.md",
+    "programming/golang/Go言語100Tips/第2章 コードとプロジェクト構成.md",
     "programming/golang/golang.md",
     "programming/programming.md",
+    "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md",
     "design/design.md",
     "design/HeadFirstデザインパターン/HeadFirstデザインパターン.md",
-    "programming/golang/Go言語100Tips/第1章 学ぶのは容易、習得は難しい.md",
     "programming/golang/Go言語100Tips",
     "programming/golang",
     "README.md",
