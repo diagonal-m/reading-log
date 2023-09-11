@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md",
+                "file": "design/design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21f64f9f1d8a00e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md",
+                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md",
+                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md"
+                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md"
               }
             }
           }
@@ -146,16 +159,23 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "4581dac1718db3e1",
+  "active": "21f64f9f1d8a00e6",
   "lastOpenFiles": [
-    "無題のファイル.canvas",
+    "design/design.md",
     "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md",
+    "PXL_20230911_061127454.jpg",
+    "design/HeadFirstデザインパターン/1章デザインパターン入門.md",
+    "design/HeadFirstデザインパターン/HeadFirstデザインパターン.md",
+    "design/HeadFirstデザインパターン",
+    "無題のフォルダ",
+    "README.md",
+    "design",
+    "無題のファイル.canvas",
     "2023-09-04.md",
     "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
     "infrastructure/infrastructure.md",
     "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築",
     "infrastructure/AmazonWebServices基礎からのネットワーク",
-    "README.md",
     "infrastructure"
   ]
 }
