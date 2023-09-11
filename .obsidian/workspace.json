@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
+                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
+                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
+                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md"
+                "file": "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "21f64f9f1d8a00e6",
   "lastOpenFiles": [
+    "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
     "design/design.md",
     "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/CHAPTER1システム構築をインフラから始めるには.md",
     "PXL_20230911_061127454.jpg",
@@ -172,7 +173,6 @@
     "design",
     "無題のファイル.canvas",
     "2023-09-04.md",
-    "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築/AmazonWebServices基礎からのネットワーク＆サーバー構築.md",
     "infrastructure/infrastructure.md",
     "infrastructure/AmazonWebServices基礎からのネットワーク＆サーバー構築",
     "infrastructure/AmazonWebServices基礎からのネットワーク",
